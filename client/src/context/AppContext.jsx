@@ -59,7 +59,7 @@ export const AppContextProvider = (props)=>{
             }
         })
         return totalLectures;
-    }s
+    }
 
     const fetchUserEnrolledCourses = async()=>{
         SetEnrolledCourses(dummyCourses)
