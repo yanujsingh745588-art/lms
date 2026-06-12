@@ -1,5 +1,3 @@
-import { Moon } from "lucide-react";
-import { Timestamp } from "mongodb";
 import mongoose from "mongoose";
 
 const PurchaseSchema = new mongoose.Schema({
